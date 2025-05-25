@@ -1,0 +1,10 @@
+"Task","Model","Accuracy"
+"Disaster Type","Random Forest",0.452277657266811
+"Disaster Type","SVM",0.414316702819957
+"Disaster Type","Neural Network",0.467462039045553
+"Economic Status","Random Forest",0.571583514099783
+"Economic Status","SVM",0.605206073752712
+"Economic Status","Neural Network",0.60412147505423
+"Continent","Random Forest",0.940411700975081
+"Continent","SVM",0.782231852654388
+"Continent","Neural Network",0.743228602383532
